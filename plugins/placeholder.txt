@@ -1,0 +1,9 @@
+Potential Future Plugins:
+-Web Server Plugin (run flask app in background)
+-Statitiscs Plugin (create matplotlib graphs to model table data)
+-Logging (...)
+
+Potential Expansions of Project:
+-Employee sign on (for quotas and such)
+-Payment collection (use project at cachier desk)
+-Order tracking (track which tables ordered food and log delivery speed)
